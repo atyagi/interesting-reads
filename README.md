@@ -10,3 +10,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### August 18, 2016
 - [Best Practices for Building a Microservice Architecture | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture) 
+
+### September 8, 2016
+- [Git diff tips and tricks](https://blog.twobucks.co/git-diff-tips-and-tricks/) 
