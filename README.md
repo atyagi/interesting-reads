@@ -13,3 +13,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 8, 2016
 - [Git diff tips and tricks](https://blog.twobucks.co/git-diff-tips-and-tricks/) 
+
+### September 10, 2016
+- [What I learned from other's shell scripts](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html) 
