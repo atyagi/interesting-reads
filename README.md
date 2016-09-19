@@ -16,3 +16,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 10, 2016
 - [What I learned from other's shell scripts](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html) 
+
+### September 19, 2016
+- [Music theory for nerds / fuzzy notepad](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/) 
