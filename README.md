@@ -20,3 +20,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### September 19, 2016
 - [Music theory for nerds / fuzzy notepad](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/) 
 - [Mesos at Strava](http://labs.strava.com/blog/mesos/) 
+
+### September 20, 2016
+- [“Google” Your Own Brain: Create a CMS with Neo4j & Elasticsearch](https://neo4j.com/blog/google-brain-cms-neo4j-elasticsearch/) 
