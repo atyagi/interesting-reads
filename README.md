@@ -23,3 +23,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 20, 2016
 - [“Google” Your Own Brain: Create a CMS with Neo4j & Elasticsearch](https://neo4j.com/blog/google-brain-cms-neo4j-elasticsearch/) 
+
+### September 21, 2016
+- [Introduction to Big Data](http://haifengl.github.io/bigdata/#x1-70001.2.3) 
