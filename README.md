@@ -26,3 +26,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### September 21, 2016
 - [Introduction to Big Data](http://haifengl.github.io/bigdata/#x1-70001.2.3) 
+
+### October 3, 2016
+- [Eigenvectors and Eigenvalues explained visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) 
