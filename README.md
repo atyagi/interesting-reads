@@ -29,3 +29,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 3, 2016
 - [Eigenvectors and Eigenvalues explained visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) 
+
+### October 9, 2016
+- [Discoverable HTTP Load Balancing in Mesos/Marathon using Beethoven and NGINX](http://jbu.io/2016/10/08/discoverable-http-load-balancing-in-mesosmarathon-using-beethoven-and-nginx/) 
