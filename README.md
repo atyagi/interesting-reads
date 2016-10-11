@@ -32,3 +32,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 9, 2016
 - [Discoverable HTTP Load Balancing in Mesos/Marathon using Beethoven and NGINX](http://jbu.io/2016/10/08/discoverable-http-load-balancing-in-mesosmarathon-using-beethoven-and-nginx/) 
+
+### October 11, 2016
+- [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 
