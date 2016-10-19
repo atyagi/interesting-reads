@@ -35,3 +35,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 11, 2016
 - [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 
+
+### October 19, 2016
+- [Stripe: Radar Technical Guide](https://stripe.com/radar/guide) 
