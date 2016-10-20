@@ -38,3 +38,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 19, 2016
 - [Stripe: Radar Technical Guide](https://stripe.com/radar/guide) 
+- [API Design with Java 8 - DZone Java](https://dzone.com/articles/the-java-8-api-design-principles) 
