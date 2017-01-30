@@ -42,3 +42,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 31, 2016
 - [Nobody puts Java in the container: Ken Sipe on Vimeo](https://vimeo.com/181900266) 
+
+### January 30, 2017
+- [ProPublica Congress API Documentation](https://propublica.github.io/congress-api-docs/#congress-api-documentation) 
