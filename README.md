@@ -48,3 +48,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### February 2, 2017
 - [airbnb/streamalert: StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.](https://github.com/airbnb/streamalert) 
+
+### February 12, 2017
+- [Finding Content in HTML](http://www.hydrogen18.com/blog/finding-content-in-html.html) 
