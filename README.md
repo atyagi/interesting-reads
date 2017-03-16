@@ -57,3 +57,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 9, 2017
 - [alleyinteractive/hubot-code-review: A Hubot script for GitHub code review on Slack.](https://github.com/alleyinteractive/hubot-code-review) 
+
+### March 16, 2017
+- [Multi-region S3 failover /w Route53 – IOpipe – Medium](https://medium.com/iopipe/multi-region-s3-failover-w-route53-64ff2357aa30#.wydenb91u) 
