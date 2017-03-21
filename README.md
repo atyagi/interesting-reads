@@ -60,4 +60,3 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 16, 2017
 - [Multi-region S3 failover /w Route53 – IOpipe – Medium](https://medium.com/iopipe/multi-region-s3-failover-w-route53-64ff2357aa30#.wydenb91u) 
-- [Multi-region S3 failover /w Route53 – IOpipe – Medium](https://medium.com/iopipe/multi-region-s3-failover-w-route53-64ff2357aa30#.wydenb91u) 
