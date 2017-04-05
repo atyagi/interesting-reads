@@ -63,3 +63,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### March 22, 2017
 - [Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports) 
+
+### April 5, 2017
+- [99designs/aws-ecr-gc: Garbage collector for Amazon ECR docker registry](https://github.com/99designs/aws-ecr-gc) 
