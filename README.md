@@ -70,3 +70,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### April 6, 2017
 - [Home · holdenk/spark-testing-base Wiki](https://github.com/holdenk/spark-testing-base/wiki) 
 - [MrPowers/spark-style-guide: Spark style guide](https://github.com/mrpowers/spark-style-guide#jar-files) 
+
+### April 9, 2017
+- [dan-v/dosxvpn: One click personal VPN server on DigitalOcean with automated OSX setup.](https://github.com/dan-v/dosxvpn) 
