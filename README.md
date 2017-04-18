@@ -73,3 +73,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### April 9, 2017
 - [dan-v/dosxvpn: One click personal VPN server on DigitalOcean with automated OSX setup.](https://github.com/dan-v/dosxvpn) 
+
+### April 18, 2017
+- [Demystifying Deep Neural Nets – Manchester Futurists – Medium](https://medium.com/manchester-futurists/demystifying-deep-neural-nets-efb726eae941) 
