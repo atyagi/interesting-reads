@@ -79,3 +79,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### April 25, 2017
 - [simplenlg/simplenlg: Java API for Natural Language Generation. Originally developed at the University of Aberdeen's Department of Computing Science. This git repo is the official SimpleNLG version.](https://github.com/simplenlg/simplenlg) 
+
+### May 4, 2017
+- [Kryptonite - The new way to protect your private key on your phone.](https://krypt.co/) 
