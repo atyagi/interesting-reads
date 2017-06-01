@@ -85,3 +85,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### May 30, 2017
 - [Unsupervised Machine Learning for Fun & Profit with Basket Clusters](https://hackernoon.com/unsupervised-machine-learning-for-fun-profit-with-basket-clusters-17a1161e7aa1?12) 
+
+### June 1, 2017
+- [Practical Neural Networks with Keras: Classifying Yelp Reviews | DevelopIntelligence Blog](http://www.developintelligence.com/blog/2017/06/practical-neural-networks-keras-classifying-yelp-reviews/) 
