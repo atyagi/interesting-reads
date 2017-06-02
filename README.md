@@ -88,3 +88,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 1, 2017
 - [Practical Neural Networks with Keras: Classifying Yelp Reviews | DevelopIntelligence Blog](http://www.developintelligence.com/blog/2017/06/practical-neural-networks-keras-classifying-yelp-reviews/) 
+
+### June 2, 2017
+- [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/) 
