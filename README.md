@@ -91,3 +91,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### June 2, 2017
 - [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/) 
+
+### July 4, 2017
+- [An Awk Primer/Awk Command-Line Examples - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/An_Awk_Primer/Awk_Command-Line_Examples) 
