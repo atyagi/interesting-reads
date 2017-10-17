@@ -96,4 +96,4 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 - [An Awk Primer/Awk Command-Line Examples - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/An_Awk_Primer/Awk_Command-Line_Examples) 
 
 ### October 16, 2017 
-- [Python Programming Tutorials](https://www.pythonprogramming.net/machine-learning-tutorial-python-introduction/) 
+- [Python Programming Tutorials - Machine Learning](https://www.pythonprogramming.net/machine-learning-tutorial-python-introduction/) 
