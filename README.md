@@ -97,3 +97,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### October 16, 2017 
 - [Python Programming Tutorials - Machine Learning](https://www.pythonprogramming.net/machine-learning-tutorial-python-introduction/) 
+
+### November 1, 2017 
+- [Preface — The Straight Dope 0.1 documentation | Gluon ML](http://gluon.mxnet.io/chapter01_crashcourse/preface.html) 
