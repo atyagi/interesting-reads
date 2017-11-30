@@ -101,3 +101,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 ### November 1, 2017 
 - [Preface — The Straight Dope 0.1 documentation | Gluon ML](http://gluon.mxnet.io/chapter01_crashcourse/preface.html) 
 - [Get Started with Deep Learning Using the AWS Deep Learning AMI | AWS AI Blog](https://aws.amazon.com/blogs/ai/get-started-with-deep-learning-using-the-aws-deep-learning-ami/) 
+
+### November 30, 2017 
+- [aws-samples/aws-workshop-for-kubernetes: AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) 
