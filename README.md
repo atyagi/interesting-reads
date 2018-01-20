@@ -104,3 +104,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### November 30, 2017 
 - [aws-samples/aws-workshop-for-kubernetes: AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) 
+
+### January 20, 2018 
+- [How To Write, Deploy, and Interact with Ethereum Smart Contracts on a Private Blockchain | Big-Ish Data](https://bigishdata.com/2017/12/15/how-to-write-deploy-and-interact-with-ethereum-smart-contracts-on-a-private-blockchain/) 
