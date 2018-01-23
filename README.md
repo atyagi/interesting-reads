@@ -107,3 +107,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 20, 2018 
 - [How To Write, Deploy, and Interact with Ethereum Smart Contracts on a Private Blockchain | Big-Ish Data](https://bigishdata.com/2017/12/15/how-to-write-deploy-and-interact-with-ethereum-smart-contracts-on-a-private-blockchain/) 
+
+### January 23, 2018 
+- [EnterpriseJSTutorial/koa-typescript-starter: Starter Project with KoaJS Web Applicaton Server and Typescript](https://github.com/EnterpriseJSTutorial/koa-typescript-starter) 
