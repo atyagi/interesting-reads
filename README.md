@@ -110,3 +110,6 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 ### January 23, 2018 
 - [EnterpriseJSTutorial/koa-typescript-starter: Starter Project with KoaJS Web Applicaton Server and Typescript](https://github.com/EnterpriseJSTutorial/koa-typescript-starter) 
+
+### January 24, 2018 
+- [wearehive/project-guidelines: A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines) 
