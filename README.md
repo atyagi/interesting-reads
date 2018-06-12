@@ -2,6 +2,9 @@
 # today-i-liked 
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
+
+### June 12, 2018 
+- [Analyze US census data for population segmentation using Amazon SageMaker | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/analyze-us-census-data-for-population-segmentation-using-amazon-sagemaker/) 
 ### August 7, 2016
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 
