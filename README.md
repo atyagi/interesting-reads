@@ -3,6 +3,9 @@
 Content that I liked. Saved using https://goo.gl/Wj595G 
 
 
+
+### February 12, 2019 
+- [Activity Classification for watchOS: Part 1 – Metis Machine – Medium](https://medium.com/metis-machine/activity-classification-for-watchos-part-1-542d44388c40) 
 ### June 12, 2018 
 - [Analyze US census data for population segmentation using Amazon SageMaker | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/analyze-us-census-data-for-population-segmentation-using-amazon-sagemaker/) 
 ### August 7, 2016
