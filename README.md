@@ -4,6 +4,9 @@ Content that I liked. Saved using https://goo.gl/Wj595G
 
 
 
+
+### October 28, 2019 
+- [15 rules for communicating at GitHub | Ben Balter](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) 
 ### February 12, 2019 
 - [Activity Classification for watchOS: Part 1 – Metis Machine – Medium](https://medium.com/metis-machine/activity-classification-for-watchos-part-1-542d44388c40) 
 ### June 12, 2018 
